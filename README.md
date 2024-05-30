@@ -29,11 +29,11 @@
 5. Generate and display password/strength
 
 
-Ref 1: Code
+_Ref 1: Code_
 ![1](https://github.com/larryklingaman3/Password-Generator-with-Python/assets/157419336/84fd9192-888a-471c-8158-af4a867a72ee)
 ![2](https://github.com/larryklingaman3/Password-Generator-with-Python/assets/157419336/cf627ad3-9ffe-42bd-ae16-2dc73da92941)
 
-Ref 2: Output
+_Ref 2: Output_
 ![3](https://github.com/larryklingaman3/Password-Generator-with-Python/assets/157419336/83d120d2-a565-41bd-8f49-965dd340e462)
 ![4](https://github.com/larryklingaman3/Password-Generator-with-Python/assets/157419336/a837cf3f-a91f-4f50-ab58-7c284b6ab629)
 
